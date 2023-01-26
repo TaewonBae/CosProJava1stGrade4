@@ -1,5 +1,5 @@
 # COS PRO Java 1급 - 모의고사4
-1
+
 ### 4차) 문제1 - 사전에서 단어찾기
 ```Java
 import java.util.*;
