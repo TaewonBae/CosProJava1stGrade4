@@ -3,7 +3,7 @@
 ### 4차) 문제1 - 사전에서 단어찾기
 ```Java
 import java.util.*;
-//
+/
 public class Main {
 		//코드 한줄 수정
     String[] vowels = {"A", "E", "I", "O", "U"};
